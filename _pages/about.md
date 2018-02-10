@@ -2,10 +2,10 @@
 layout: page
 title: Who?
 permalink: /about
+published: true
 ---
 
 This is the blog of Cem Kocagil, a software developer. He intends to write a post here 
-when a computer-related thing bothers him and he can actually distill meaningful, 
-coherent words from his disorganized mind.
+about things (mostly computer-related) that keeps him up at night.
 
-He should probably add some contact info here some time.
+Contact: name dot lastname at gmail
